@@ -4,4 +4,4 @@ amend
 commit feature branch 2
 revert 1
 revert 2
-1
+1 2
