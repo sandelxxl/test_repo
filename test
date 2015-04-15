@@ -2,3 +2,5 @@ development commit 13
 development feature commit 10
 amend
 commit feature branch 2
+revert 1
+revert 2
